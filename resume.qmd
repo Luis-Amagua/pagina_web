@@ -1,0 +1,33 @@
+Si estás interesado en contar con mis servicios profesionales, sobre consultoría, capacitación o una oferta laboral te comparto un poco de mi experiencia profesional.
+
+## Educación
+- Ingeniero Matemático graduado de la Escuela Politécnica Nacional
+- Estudiante de maestría en Inteligencia Artificial Aplicada en la Universidad de los Hemisferios.
+
+## Experiencia Laboral
+- Especialista de Business Intelligence - Banco ProCredit Ecuador
+- Analista de datos - Etafashion
+- Data Officer - Luvefintech
+- Consultor análisis de datos - MarkUp
+- Instructor - Data Skills escuela de capacitaciones
+ 
+
+## Certificaciones
+- Analista de Datos -  Datapath
+- Power BI para los negocios -  Universidad Politécnica de Valencia
+
+## Cursos 
+- Clasificación con R y Python para la detección de
+deserción de clientes - Sociedad Ecuatoriana de Estadistica
+- Big Data con Apache Spark usando R - Sociedad Ecuatoriana de Estadística
+- Computer Vision para principiantes OpenCV - FEDIAT
+- Fundamentos de Consumo y Construcción de API’s - Datapath
+- Deep Learning con Python - Colegio de científicos de datos del Ecuador
+- Spring School on Scientific Computing - Universidad Nacional San Antonio Abad del Cusco
+- Elements of Artificial Intelligence - University of Helsinki
+- Probability - MITx - Massachusetts Institute of Technology
+- Modelos estadísticos en datos espaciotemporales - Colegio de científicos de datos del Ecuador
+
+
+
+

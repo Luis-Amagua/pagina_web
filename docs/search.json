@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Acerca de mí",
+    "section": "",
+    "text": "Hola, mi nombre es Luis. Soy Ingeniero Matemático y actualmente estoy cursando una maestría en Inteligencia Artificial Aplicada en UHE. Soy apasionado por el mundo de los datos, disfruto entender patrones para extraer información útil que facilite la toma de decisiones. Tengo +3 años de experiencia manejando software para analizar datos principalmente en R, Python, SQL, Power BI.\nAlgunos de los proyectos en los que he trabajado son:\n\nCreación de visualizador en Shiny para seguimiento y análisis de cosechas, cascadas, PE en el área de Riesgo de crédito.\nAutomatización para consolidar información diaria de empresas de industria farmacéutica, procesos de ETL y creación de reportes de Power BI para análisis de KPI’s.\nForecast de productos y ventas para una empresa de retail con mas de 23 tiendas en Ecuador, además de creación de app en Shiny para generar listado de clientes para campañas de MKT personalizadas.\nSegmentación de clientes para un análisis de otorgamiento de tarjetas de crédito en el sector bancario."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "R",
+    "section": "",
+    "text": "Hola! soy Luis\nActualmente me desarollo como analista de datos en LV"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "",
+    "section": "",
+    "text": "Hola! En esta sección quiero que compartir algunas notas interesantes, papers, trabajos de divulgación o trabajos de investigación que actualmente estoy enfocado."
+  },
+  {
+    "objectID": "portafolio.html",
+    "href": "portafolio.html",
+    "title": "kkPython",
+    "section": "",
+    "text": "Hola! soy Luis\nActualmente me desarollo como analista de datos en LV"
+  },
+  {
+    "objectID": "index.html#recursos",
+    "href": "index.html#recursos",
+    "title": "Index",
+    "section": "Recursos",
+    "text": "Recursos"
+  },
+  {
+    "objectID": "index.html#excel",
+    "href": "index.html#excel",
+    "title": "",
+    "section": "Excel",
+    "text": "Excel"
+  },
+  {
+    "objectID": "index.html#power-bi",
+    "href": "index.html#power-bi",
+    "title": "",
+    "section": "Power BI",
+    "text": "Power BI"
+  },
+  {
+    "objectID": "index.html#tableau",
+    "href": "index.html#tableau",
+    "title": "",
+    "section": "Tableau",
+    "text": "Tableau"
+  },
+  {
+    "objectID": "index.html#sql",
+    "href": "index.html#sql",
+    "title": "",
+    "section": "SQL",
+    "text": "SQL"
+  },
+  {
+    "objectID": "index.html#python",
+    "href": "index.html#python",
+    "title": "",
+    "section": "Python",
+    "text": "Python"
+  },
+  {
+    "objectID": "Power_BI.html",
+    "href": "Power_BI.html",
+    "title": "",
+    "section": "",
+    "text": "Los DataViz son de importancia para comunicar de forma gráfica un análisis de las variables, como el desempeño de una empresa, o tragedias como lo ocurrido en el Titánic, a continuación muestro proyectos personales que he desarrollado."
+  },
+  {
+    "objectID": "python.html",
+    "href": "python.html",
+    "title": "",
+    "section": "",
+    "text": "Me encuentro fortaleciendo mis habilidades en Python y de esta forma aprender más sobre computer vision.\nDe las habilidades que estoy empezando a mejorar es python, el uso y manejo de librerías como seaborn el cual describo en el siguiente link de google colab."
+  },
+  {
+    "objectID": "R.html",
+    "href": "R.html",
+    "title": "",
+    "section": "",
+    "text": "Durante mi formación universitaria he realizado algunos proyectos en RStudio, y alguno de esos proyectos los he adjuntado en un repositorio llamado Rpubs.\nA finales de 2021 participé como tutor del curso Introductorio a R en la asoimat (asociación de estudiantes de matemática de la Escuela Politécnica Nacional), en donde uno de los proyectos hechos durante el curso fué un análisis exploratorio de dataset del titanic.\n\nPuedes encontrar más detalle en el siguinte link"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "",
+    "section": "",
+    "text": "Si estás interesado en contar con mis servicios profesionales, sobre consultoría, capacitación o una oferta laboral te comparto un poco de mi experiencia profesional."
+  },
+  {
+    "objectID": "ppython.html",
+    "href": "ppython.html",
+    "title": "",
+    "section": "",
+    "text": "Hola! soy Luis\nActualmente me desarollo como analista de datos en Luz verde"
+  },
+  {
+    "objectID": "index.html#youtube",
+    "href": "index.html#youtube",
+    "title": "Acerca de mí",
+    "section": "Youtube",
+    "text": "Youtube\nDurante el pregrado participé como tutor académico en materias de formación básica de la universidad y al tener pasión por la enseñanza decidí abrir un canal de YouTube para ayudar a estudiantes del nivel propedéutico de la Escuela Politécnica Nacional (EPN).\nPara 2024 mi meta es volver a realizar vídeos para compartir el conocimiento que he adquirido principalmente sobre Shiny, Power BI, y lo que me encuentro aprendiendo ahora sobre Redes Neuronales."
+  },
+  {
+    "objectID": "index.html#proyecto-cna",
+    "href": "index.html#proyecto-cna",
+    "title": "Acerca de mí",
+    "section": "Proyecto CNA",
+    "text": "Proyecto CNA\nDesde la secundaria tuve pasión sobre la enseñanza, y durante varios años participé en tutorías en diferentes centros de nivelación académica y preuniversitarios en Quito, incluido algunos cursos de verano desarrollados por la asociación de estudiantes de la EPN, al terminar los cursos participé en el Proyecto CNA el cual es un centro de capacitación académica donde soy co-fundador y coordinador.\nDurante el funcionamiento del Proyecto CNA pude capacitar a estudiantes de diferentes universidades en cursos de forma presencial, remota, individual y grupal."
+  },
+  {
+    "objectID": "index.html#club-de-turismo",
+    "href": "index.html#club-de-turismo",
+    "title": "Acerca de mí",
+    "section": "Club de Turismo",
+    "text": "Club de Turismo\nA finales de 2022 en la EPN se formó el club de turismo Politécnico, una idea innovadora para desarrollar y fortalecer las habilidades de comunicación para estudiantes de la Universidad, en el cual pude ser miembro fundador y parte de la directiva durante 3 semestres, entre mis tareas se tenían la organización y coordinación durante las salidas de campo que hacía en club dentro y fuera de la ciudad."
+  },
+  {
+    "objectID": "blog.html#quarto-blog---data-visualizations---animation-and-interactivity",
+    "href": "blog.html#quarto-blog---data-visualizations---animation-and-interactivity",
+    "title": "",
+    "section": "Quarto blog - Data visualizations - Animation and Interactivity",
+    "text": "Quarto blog - Data visualizations - Animation and Interactivity\n\n\nDescription 1\n\n\n\nImage 1"
+  },
+  {
+    "objectID": "blog.html#chat-gpt",
+    "href": "blog.html#chat-gpt",
+    "title": "",
+    "section": "Chat GPT",
+    "text": "Chat GPT\n\n\nLos avances de la Inteligencia Artificial cada día son sorprendentes, la nueva noticia sobre el ChatGPT han generado varias controversias, entre ellos ayudar en la realización fraudulenta de tareas, pero también es de utilidad en la generación y corrección de código.\n\n\n\n\n\n“Soy ChatGPT, un modelo de lenguaje grande entrenado por OpenAI. Fui creado para generar texto en base a un contexto dado. Sirvo para responder preguntas, generar textos y realizar tareas de procesamiento del lenguaje natural. Para utilizar mis herramientas, puedes hacer preguntas directamente a través de esta interfaz de conversación. También se pueden utilizar mis capacidades a través de la API de OpenAI.”"
+  },
+  {
+    "objectID": "index.html#viajar",
+    "href": "index.html#viajar",
+    "title": "Acerca de mí",
+    "section": "Viajar",
+    "text": "Viajar\nUna de mis pasiones es viajar conocer nuevas personas y nuevos lugares, a inicio de 2023 empecé un viaje por latino américa para tener un intercambio cultural en diferentes países. Mi primera parada fué Perú en donde conocí varias ciudades como Lima, Huaraz, Cusco, Machupichu pueblo, Arequipa, me gustó muchísimo los lugares hermosos que hay y la comida que simplemente es espectacular. Después hice un voluntariado en Santiago de Chile durante un mes, conocí otras personas que estaban haciendo viajes de diferentes paises como Suiza, Alemania, Francia y pude practicar un poco el inglés. Mi siguiente parada fué Argentina, un trayecto que lo hice en bus desde Santiago hasta Buenos Aires, una ciudad realmente gigante y hermosa, donde pude vivir un mes, y aprender sobre los problemas sociales y como afecta la crisis económica por la devaluación de la moneda. Y mi último destino fué Brasil, entender un poco de portugués fué realmente un reto porque muchas palabras no se asemejan al español sin embargo, todas los brasileños son realmente amables y cuando saben que eres extranjero hacen todo lo posible por explicarte todo para que puedas entender, conocí Curitiba, Sao Paulo y Florianópolis una isla realmente hermosa de la cual quedé enamorado. Por esa razón decidí hacer un podcast para tener notas sobre mis viajes, y de esta forma recordar lo que he vivido durante esta aventura."
+  },
+  {
+    "objectID": "blog.html#reconocimiento-facial",
+    "href": "blog.html#reconocimiento-facial",
+    "title": "",
+    "section": "Reconocimiento facial",
+    "text": "Reconocimiento facial\nEn el módulo de Percepción Computacional de la maestría desarrollé un programa de reconocimiento facial utilizando OpenCV y clasificadores en cascada Haar para detectar y reconocer caras en vídeo en tiempo real."
+  },
+  {
+    "objectID": "resume.html#educación",
+    "href": "resume.html#educación",
+    "title": "",
+    "section": "Educación",
+    "text": "Educación\n\nIngeniero Matemático graduado de la Escuela Politécnica Nacional\nEstudiante de maestría en Inteligencia Artificial Aplicada en la Universidad de los Hemisferios."
+  },
+  {
+    "objectID": "resume.html#experiencia-laboral",
+    "href": "resume.html#experiencia-laboral",
+    "title": "",
+    "section": "Experiencia Laboral",
+    "text": "Experiencia Laboral\n\nEspecialista de Business Intelligence - Banco ProCredit Ecuador\nAnalista de datos - Etafashion\nData Officer - Luvefintech\nConsultor análisis de datos - MarkUp\nInstructor - Data Skills escuela de capacitaciones"
+  },
+  {
+    "objectID": "resume.html#certificaciones",
+    "href": "resume.html#certificaciones",
+    "title": "",
+    "section": "Certificaciones",
+    "text": "Certificaciones\n\nAnalista de Datos - Datapath\nPower BI para los negocios - Universidad Politécnica de Valencia"
+  },
+  {
+    "objectID": "resume.html#cursos",
+    "href": "resume.html#cursos",
+    "title": "",
+    "section": "Cursos",
+    "text": "Cursos\n\nClasificación con R y Python para la detección de deserción de clientes - Sociedad Ecuatoriana de Estadistica\nBig Data con Apache Spark usando R - Sociedad Ecuatoriana de Estadística\nComputer Vision para principiantes OpenCV - FEDIAT\nFundamentos de Consumo y Construcción de API’s - Datapath\nDeep Learning con Python - Colegio de científicos de datos del Ecuador\nSpring School on Scientific Computing - Universidad Nacional San Antonio Abad del Cusco\nElements of Artificial Intelligence - University of Helsinki\nProbability - MITx - Massachusetts Institute of Technology\nModelos estadísticos en datos espaciotemporales - Colegio de científicos de datos del Ecuador"
+  }
+]

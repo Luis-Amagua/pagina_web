@@ -1,0 +1,5 @@
+Los DataViz son de importancia para comunicar de forma gráfica un análisis de las variables, como el desempeño de una empresa, o tragedias como lo ocurrido en el Titánic, a continuación muestro proyectos personales que he desarrollado.
+
+![](images/titanic_dahsboard.jpg)
+
+![](images/ventas_dashboard.jpg)

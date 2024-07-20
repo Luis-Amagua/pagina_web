@@ -1,0 +1,75 @@
+```{r, echo=FALSE}
+# agregar imagen: ![](images/foto.png){fig-align="center" width="60%"}
+#fuente de la letra
+#https://fontmeme.com/fuentes/fuente-tahu/
+```
+
+# Acerca de mí
+
+Hola, mi nombre es Luis. Soy Ingeniero Matemático y actualmente estoy cursando una maestría en Inteligencia Artificial Aplicada en UHE. Soy apasionado por el mundo de los datos, disfruto entender patrones para extraer información útil que facilite la toma de decisiones. Tengo +3 años de experiencia manejando software para analizar datos principalmente en R, Python, SQL, Power BI.
+
+Algunos de los proyectos en los que he trabajado son:
+
+-   Creación de visualizador en Shiny para seguimiento y análisis de cosechas, cascadas, PE en el área de Riesgo de crédito.
+
+-   Automatización para consolidar información diaria de empresas de industria farmacéutica, procesos de ETL y creación de reportes de Power BI para análisis de KPI's.
+
+-   Forecast de productos y ventas para una empresa de retail con mas de 23 tiendas en Ecuador, además de creación de app en Shiny para generar listado de clientes para campañas de MKT personalizadas.
+
+-   Segmentación de clientes para un análisis de otorgamiento de tarjetas de crédito en el sector bancario.
+
+------------------------------------------------------------------------
+
+# Habilidades
+
+-   Pensamiento Crítico y Resolución de Problemas
+
+-   Organización y trabajo en equipo
+
+-   Comunicación efectiva
+
+-   Curiosidad y aprendizaje continuo
+
+------------------------------------------------------------------------
+
+# Herramientas de Análisis
+
+-   RStudio
+
+-   Python
+
+-   Power BI
+
+-   SQL
+
+-   Excel
+
+------------------------------------------------------------------------
+
+# Actividades adicionales
+
+## Youtube
+
+Durante el pregrado participé como tutor académico en materias de formación básica de la universidad y al tener pasión por la enseñanza decidí abrir un canal de [YouTube](https://www.youtube.com/channel/UCOillrtP_9WX4FfYEBzAANw) para ayudar a estudiantes del nivel propedéutico de la Escuela Politécnica Nacional (EPN).
+
+Para 2024 mi meta es volver a realizar vídeos para compartir el conocimiento que he adquirido principalmente sobre Shiny, Power BI, y lo que me encuentro aprendiendo ahora sobre Redes Neuronales.
+
+## Proyecto CNA
+
+Desde la secundaria tuve pasión sobre la enseñanza, y durante varios años participé en tutorías en diferentes centros de nivelación académica y preuniversitarios en Quito, incluido algunos cursos de verano desarrollados por la asociación de estudiantes de la EPN, al terminar los cursos participé en el [Proyecto CNA](https://www.facebook.com/cnaquito) el cual es un centro de capacitación académica donde soy co-fundador y coordinador.
+
+Durante el funcionamiento del Proyecto CNA pude capacitar a estudiantes de diferentes universidades en cursos de forma presencial, remota, individual y grupal.
+
+## Club de Turismo
+
+A finales de 2022 en la EPN se formó el [club de turismo Politécnico](https://www.facebook.com/club.turismo.politecnico), una idea innovadora para desarrollar y fortalecer las habilidades de comunicación para estudiantes de la Universidad, en el cual pude ser miembro fundador y parte de la directiva durante 3 semestres, entre mis tareas se tenían la organización y coordinación durante las salidas de campo que hacía en club dentro y fuera de la ciudad.
+
+## Viajar
+
+Una de mis pasiones es viajar conocer nuevas personas y nuevos lugares, a inicio de 2023 empecé un viaje por latino américa para tener un intercambio cultural en diferentes países. Mi primera parada fué Perú en donde conocí varias ciudades como Lima, Huaraz, Cusco, Machupichu pueblo, Arequipa, me gustó muchísimo los lugares hermosos que hay y la comida que simplemente es espectacular. Después hice un voluntariado en Santiago de Chile durante un mes, conocí otras personas que estaban haciendo viajes de diferentes paises como Suiza, Alemania, Francia y pude practicar un poco el inglés. Mi siguiente parada fué Argentina, un trayecto que lo hice en bus desde Santiago hasta Buenos Aires, una ciudad realmente gigante y hermosa, donde pude vivir un mes, y aprender sobre los problemas sociales y como afecta la crisis económica por la devaluación de la moneda. Y mi último destino fué Brasil, entender un poco de portugués fué realmente un reto porque muchas palabras no se asemejan al español sin embargo, todas los brasileños son realmente amables y cuando saben que eres extranjero hacen todo lo posible por explicarte todo para que puedas entender, conocí Curitiba, Sao Paulo y Florianópolis una isla realmente hermosa de la cual quedé enamorado. Por esa razón decidí hacer un podcast para tener notas sobre mis viajes, y de esta forma recordar lo que he vivido durante esta aventura.
+
+------------------------------------------------------------------------
+
+# Contáctame
+
+Si deseas comunicarte conmigo puedes acceder a los enlaces en la parte superior derecha.
